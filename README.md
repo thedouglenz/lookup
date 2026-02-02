@@ -2,6 +2,8 @@
 
 A Unix-style CLI tool to fetch dictionary definitions and Wikipedia summaries.
 
+![demo](demo.gif)
+
 ## Installation
 
 ```bash
